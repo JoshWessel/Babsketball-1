@@ -1,0 +1,73 @@
+﻿  Main.cpp
+C:\Users\joshw\source\repos\Babsketball\Series.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1052,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1074,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1095,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1117,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1157,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1182,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1204,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1229,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1411,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1415,73): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1417,69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1419,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1421,1): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1445,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1446,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1468,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1469,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1493,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1494,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(1497,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\Team.h(113,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(260,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(297,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(311,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(320,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(340,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(342,26): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(352,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(369,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(437,54): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(460,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(478,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(487,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(496,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(505,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(514,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(543,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(551,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(559,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(567,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(575,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(821,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(1085,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(1205,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(1242,43): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(104,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(106,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(152,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(154,56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(166,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(571,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(573,60): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(578,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(580,60): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(2315,60): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(2317,60): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\BabdulGame.h(2770,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\joshw\source\repos\Babsketball\Series.h(70,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\Series.h(72,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\Series.h(83,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\Series.h(85,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\Series.h(93,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\Series.h(95,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshw\source\repos\Babsketball\Main.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(73): warning C4715: 'BabdulManager::setup': not all control paths return a value
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(528): warning C4715: 'Babdul::generateWeight': not all control paths return a value
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(386): warning C4715: 'Babdul::generatePosition': not all control paths return a value
+C:\Users\joshw\source\repos\Babsketball\Babdul.h(183): warning C4715: 'Babdul::generateTier': not all control paths return a value
+C:\Users\joshw\source\repos\Babsketball\BabdulManager.h(1154): warning C4715: 'BabdulManager::placeholderValues': not all control paths return a value
+  Babsketball.vcxproj -> C:\Users\joshw\source\repos\Babsketball\Debug\Babsketball.exe

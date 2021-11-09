@@ -1,0 +1,5 @@
+BABDUL1	6	6	100	PG	Rotation  	All_Around   	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+BABDUL2	6	6	100	PG	Rotation  	All_Around   	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+BABDUL3	6	6	100	PG	Rotation  	All_Around   	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+BABDUL4	6	6	100	PG	Rotation  	All_Around   	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+BABDUL5	6	6	100	PG	Rotation  	All_Around   	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
